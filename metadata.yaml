@@ -1,0 +1,30 @@
+_repo: '-----------------------------13---------------------------------------1824-1825--------------__34095'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andreadis, Andreas
+    alias: Ανδρεάδης, Ανδρέας
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '36762'
+    url: http://www.gutenberg.org/2009/agents/36762
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B5%CE%AC%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34095'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Economic conditions -- 19th century'
+- !lcc 'DF'
+- !lcc 'HJ'
+title: "Ιστορία των Εθνικών Δανείων\r\nΜέρος Α' - Τα δάνεια της ανεξαρτησίας (1824-1825)\
+  \ - Το Δημόσιον Χρέος επί της Βαυαρικής Δυναστείας"
+url: http://www.gutenberg.org/ebooks/34095
