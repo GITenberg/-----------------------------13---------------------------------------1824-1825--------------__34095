@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36762
     wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B5%CE%AC%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34095#-----------------------------13---------------------------------------1824-1825--------------_
 gutenberg_issued: '2010-10-18'
 gutenberg_type: Text
 identifiers:
